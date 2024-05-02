@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|c:\\users\\administrador\\desktop\\logic\\logica\\logica\\views\\palindrome\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|solutionrelative:logica\\views\\palindrome\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|c:\\users\\administrador\\desktop\\logic\\logica\\logica\\views\\palindrome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|solutionrelative:logica\\views\\palindrome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|c:\\users\\administrador\\desktop\\logic\\logica\\logica\\controllers\\palindromecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|solutionrelative:logica\\controllers\\palindromecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|c:\\users\\administrador\\desktop\\logic\\logica\\logica\\datos\\logical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF1B39F-6653-494D-BCDC-474760E5888D}|Logica\\Logica.csproj|solutionrelative:logica\\datos\\logical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Views\\Palindrome\\Result.cshtml",
+              "RelativeDocumentMoniker": "Logica\\Views\\Palindrome\\Result.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Views\\Palindrome\\Result.cshtml",
+              "RelativeToolTip": "Logica\\Views\\Palindrome\\Result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T16:29:21.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Views\\Palindrome\\Index.cshtml",
+              "RelativeDocumentMoniker": "Logica\\Views\\Palindrome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Views\\Palindrome\\Index.cshtml",
+              "RelativeToolTip": "Logica\\Views\\Palindrome\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T16:20:51.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logical.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Datos\\Logical.cs",
+              "RelativeDocumentMoniker": "Logica\\Datos\\Logical.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Datos\\Logical.cs",
+              "RelativeToolTip": "Logica\\Datos\\Logical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:14:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PalindromeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Controllers\\PalindromeController.cs",
+              "RelativeDocumentMoniker": "Logica\\Controllers\\PalindromeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\logic\\Logica\\Logica\\Controllers\\PalindromeController.cs",
+              "RelativeToolTip": "Logica\\Controllers\\PalindromeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:08:35.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

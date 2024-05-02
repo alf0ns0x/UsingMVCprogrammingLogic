@@ -1,0 +1,25 @@
+﻿@model Logica.Models.PalindromeModel;
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        Verificar Palíndromo
+    </div>
+    <div class="card-body">
+        <form asp-controller="Palindrome" asp-action="CheckPalindrome" method="post">
+            <div class="mb-3">
+                <label class="form-label">Ingrese una palabra o frase</label>
+                <input asp-for="Word" type="text" class="form-control">
+                <span asp-validation-for="Word" class="text-danger"></span>
+            </div>
+           
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+
+
